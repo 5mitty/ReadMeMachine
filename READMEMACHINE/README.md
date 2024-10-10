@@ -1,5 +1,7 @@
 ## <READMEMACHINE>
 
+https://youtu.be/ekkmzFBa4EM
+
 ## Description
 
 To learn how to use inquirer, string literals, and node modules to create a file with the input information. It allows the user to save time and only have to respond to a few questions to get a customized readme.md. I learned a lot about inquirer, string literals, and node modules and how to incorporate them in the project, definitely a learning curve.

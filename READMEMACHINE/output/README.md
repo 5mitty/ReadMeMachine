@@ -1,40 +1,39 @@
 
-            ## READMEMACHINE
+## READMEMACHINE
 
-            ## Description
+## Description
 
-            creates readme.md files
+creates readme.md files
 
-            ## Table of Contents
+## Table of Contents
 
-            - [Installation](#installation)
-            - [Usage](#usage)
-            - [Contributing](#contributing)
-            - [Tests](#tests)
-            - [License](#license)
-            - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
-            ## Installation
+## Installation
 
-            npm install, npm run start
+npm install, npm run start
 
-            ## Usage
+## Usage
 
-            input into cli
+input into cli
 
-            ## Contributing
+## Contributing
 
-            The contribution conditions are: N/A
+The contribution conditions are: N/A
 
-            ## Tests
+## Tests
 
-            The test instructions are: N/A
+The test instructions are: N/A
 
-            ## License
+## License
 
-            This project has a/an mit license.
+This project has a/an mit license.
 
-            ## Questions
+## Questions
 
-            For any questions, please reach out to me on GitHub [5mitty](https://github.com/5mitty) or via email at email@email.com.
-        
+For any questions, please reach out to me on GitHub [5mitty](https://github.com/5mitty) or via email at email@email.com.

@@ -84,44 +84,44 @@ function init() {
         ])
         .then((answers) => {
             const readMeFile = `
-            ## ${answers.title}
+## ${answers.title}
 
-            ## Description
+## Description
 
-            ${answers.description}
+${answers.description}
 
-            ## Table of Contents
+## Table of Contents
 
-            - [Installation](#installation)
-            - [Usage](#usage)
-            - [Contributing](#contributing)
-            - [Tests](#tests)
-            - [License](#license)
-            - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
-            ## Installation
+## Installation
 
-            ${answers.installation}
+${answers.installation}
 
-            ## Usage
+## Usage
 
-            ${answers.usage}
+${answers.usage}
 
-            ## Contributing
+## Contributing
 
-            The contribution conditions are: ${answers.contribution}
+The contribution conditions are: ${answers.contribution}
 
-            ## Tests
+## Tests
 
-            The test instructions are: ${answers.test}
+The test instructions are: ${answers.test}
 
-            ## License
+## License
 
-            This project has a/an ${answers.license} license.
+This project has a/an ${answers.license} license.
 
-            ## Questions
+## Questions
 
-            For any questions, please reach out to me on GitHub [${answers.github}](https://github.com/${answers.github}) or via email at ${answers.email}.
+For any questions, please reach out to me on GitHub [${answers.github}](https://github.com/${answers.github}) or via email at ${answers.email}.
         `;
 
             // Call writeToFile with the correct parameters
